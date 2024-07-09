@@ -1,7 +1,7 @@
 # UART-TTL-Flipper_Zero
 TTL to RS232 Serial Adapter for the Flipper Zero
 
-Free to use for private use! Commercial usage prohibited. No warranties, express or implicit, are provided. Use as is.
+Free to use for private use! Commercial usage prohibited. No warranties or support, express or implicit, are provided. Use as is.
 
 This is a simple UART TTL to RS232 Serial Adapter based on the MAX2323 chip for the Flipper Zero. All necessary files are provided.
 After building; the standard values in the Flipper UART Adapter are sufficient for use.
